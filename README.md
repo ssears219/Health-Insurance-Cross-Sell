@@ -2,6 +2,8 @@
 
 Identifying health insurance customers who would be interested in vehicle insurance.
 
+![Health](https://cdn.pixabay.com/photo/2017/02/20/14/18/health-2082630_960_720.jpg?raw=true)
+
 ## Description
 
 In this project, a series of methods are used to identify cross sell opportunities within a data set of a company’s existing health insurance customers. Whether or not the customer is interested in vehicle insurance is known. The goal of the analysis is to be able to identify whether or not a customer would be interested in vehicle insurance for a new data set in which this information was not known. The methods described include customer segmentation based on grouping known information about the customer through exploratory data analysis, predictive modeling, and customer segmentation based on probabilities given by the predictive models. For predictive modeling, a wide range of algorithms are used including, but not limited to, Light Gradient Boosting Machine and densely connected neural networks. In identifying customers who are interested in vehicle insurance, the project aims to reduce the number of customers the company would have to solicit the additional product to and provide information needed to create a more targeted communication strategy.
