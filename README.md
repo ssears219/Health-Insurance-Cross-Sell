@@ -36,7 +36,7 @@ Papers
 * Project Draft - Health Insurance Cross Sell.pdf
 * Report - Health Insurance Cross Sell.pdf
 
-Presentation Deck - Health Insurance Cross Sell.pptx - deck used to aid [presentation](https://bellevueuniversity-my.sharepoint.com/:v:/g/personal/spsears_my365_bellevue_edu/ET4pWWapQ6xFv-QUBynM3GQBIy4g0f0PnCs3rl09MumFQQ?e=SPrIOH)  
+Presentation Deck - Health Insurance Cross Sell.pptx - deck used to aid [presentation](https://drive.google.com/file/d/1D_pe_VaUB9i7SbPsLxOOPh9DT-LaXdR6/view?usp=sharing)
 
 ## Tools
 * Python
